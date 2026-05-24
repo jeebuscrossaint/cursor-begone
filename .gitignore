@@ -1,0 +1,35 @@
+# Build artifacts
+*.exe
+*.obj
+*.o
+*.res
+*.res.o
+*.pdb
+*.ilk
+*.exp
+*.lib
+
+# Python
+__pycache__/
+*.pyc
+
+# Claude Code session state
+.claude/
+
+# CMake
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# OS
+Thumbs.db
+.DS_Store

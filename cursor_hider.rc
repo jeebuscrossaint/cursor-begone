@@ -1,0 +1,3 @@
+// Embeds the app icon into the binary.
+// Resource ID 1 is also what Explorer uses as the file icon for the .exe.
+1 ICON "assets/cursor-begone.ico"
