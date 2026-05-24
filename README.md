@@ -4,7 +4,7 @@ Tiny Windows tray app that hides the mouse cursor after **3 seconds** of inactiv
 
 ## Install
 
-Grab a prebuilt `cursor-begone.exe` from [Releases](https://github.com/jeebuscrossaint/cursor-begone/releases), or build from source (below). Drop it anywhere — double-click to run. It lives in the system tray.
+`cursor-begone.exe` is committed to the repo — download it directly or build from source (below). Drop it anywhere, double-click to run. It lives in the system tray.
 
 ## Tray menu
 
